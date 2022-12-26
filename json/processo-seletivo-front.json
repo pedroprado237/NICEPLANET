@@ -1,0 +1,168 @@
+{
+   "monitoramentos":{
+    "0":{
+        "idMonitoramento": "1",
+        "dataMonitoramento": "2022-12-10 10:22:34",
+        "analista": "Celio Gomes",
+        "resultado": "Bloqueado",
+        "parecerAnalise": "O perímetro do SICAR QQ-0001559-47ABABC582DD473BBAABCD145F51E567 possui sobreposição superior a 10% a outros perímetros de propriedades rurais. Solicitar ao proprietário procurar soluções junto a SEMA. Favor encaminhar documentos oficiais, tais como; georreferenciamento, matricula da propriedade, memorial descritivo da propriedade registrado em cartório, protocolado no INCRA e outros documentos oficiais da propriedade.Por meio da documentação em anexo não é possível confirmar a posse informada no cadastro em análise. Desta forma, a análise em questão se atenta as informações disponibilizadas no cadastro e nos dados geográficos do CAR anexado.",
+        "idVinculo": "1"
+      },
+     "1": {
+        "idMonitoramento": "2",
+        "dataMonitoramento": "2022-12-11 10:22:34",
+        "analista": "Elias Ribeiro",
+        "resultado": "Liberado",
+        "parecerAnalise": "O perímetro foi confeccionado a partir das informações apresentadas no Recibo de Inscrição do Imóvel Rural no SICAR Nacional QQ-0001559-47ABABC582DD473BBAABCD145F51E567, tendo como base de informação as coordenadas geográficas apresentadas neste documento",
+        "idVinculo": "2"
+      },
+    "2":  {
+        "idMonitoramento": "3",
+        "dataMonitoramento": "2022-12-12 10:22:34",
+        "analista": "Denys Fernandes",
+        "resultado": "Bloqueado",
+        "parecerAnalise": "O perímetro do CAR em análise faz divisa a outra propriedade do mesmo fornecedor, CAR XQ-0001559-47ABABCQWERD473BBAABCD145F51E567, e este possui sobreposição a polígonos PRODES 2013. Por se caracterizar a mesma unidade produtiva, o CAR em análise herda os passivos ambientais.Nota-se uma possível alteração no perímetro do CAR  XQ-0001559-47ABABCQWERD473BBAABCD145F51E741 em função dos polígonos detectados, deslocando os limites da propriedade para a não identificação dos PRODES 2012, 2019, 2021. Sendo assim a propriedade ficará bloqueada.O perímetro do SICAR XX-0001559-47ABABCQWERD473BBAABCD145F51E567 possui sobreposição superior a 10% a outros perímetros de propriedades rurais. Solicitar ao proprietário procurar soluções junto a SEMA. Favor encaminhar documentos oficiais, tais como; georreferenciamento, matricula da propriedade, memorial descritivo da propriedade registrado em cartório, protocolado no INCRA e outros documentos oficiais da propriedade.O perímetro foi confeccionado a partir das informações apresentadas no Recibo de Inscrição do Imóvel Rural no SICAR Nacional XX-0001559-47ABABCQWERD473BBAABCD145F51E567, tendo como base de informação as coordenadas geográficas apresentadas neste documento.",
+        "idVinculo": "4"
+      },
+      "3":{
+        "idMonitoramento": "4",
+        "dataMonitoramento": "2022-12-13 10:22:34",
+        "analista": "João Celino",
+        "resultado": "Liberado",
+        "parecerAnalise": "O perímetro do CAR em análise faz divisa a outra propriedade do mesmo fornecedor, CAR ZX-8881559-47ABABCQWERD473BBAABCD145F51E567, e este possui sobreposição a polígonos PRODES 2011 e EMBARGO IBAMA. Por se caracterizar a mesma unidade produtiva, o CAR em análise herda os passivos ambientais.",
+        "idVinculo": "5"
+      },
+     "4": {
+        "idMonitoramento": "5",
+        "dataMonitoramento": "2022-12-14 10:22:34",
+        "analista": "João Celino",
+        "resultado": "Liberado",
+        "parecerAnalise": "O perímetro foi confeccionado a partir das informações do XX-0001559-47ABABCQW1234D473BBAABCD145F51E567, apresentadas no demonstrativo do SIMCAR, tendo como base de informações as coordenadas geográficas apresentadas neste documento. Nota-se uma possível alteração no perímetro do CAR  PP-0001559-123BABCQWER1273BBAABCD145F51E567 em função dos polígonos detectados, deslocando os limites da propriedade para a não identificação dos EMBARGO IBAMA. Sendo assim a propriedade ficará bloqueada",
+        "idVinculo": "3"
+      },
+     "5": {
+        "idMonitoramento": "6",
+        "dataMonitoramento": "2022-12-15 10:22:34",
+        "analista": "Denys Fernandes",
+        "resultado": "Liberado",
+        "parecerAnalise": "Conforme o demonstrativo do CAR anexado, o perímetro da propriedade não possui área consolidada. No entanto, através de análise das imagens de satélite nota-se área produtiva dentro dos limites da propriedade. Logo, a área útil foi calculada com base da estimativa da % de área total da propriedade, observados os seguintes percentuais mínimos em relação à área do imóvel de acordo como disposto no Código Florestal em seu Art. 12. O perímetro foi confeccionado a partir das informações apresentadas no Recibo de Inscrição do Imóvel Rural no SICAR Nacional XX-9991559-47ABABC271234D473BBAABCD1ABCDEE567, tendo como base de informação as coordenadas geográficas apresentadas neste documento.",
+        "idVinculo": "4"
+      },
+     "6": {
+        "idMonitoramento": "7",
+        "dataMonitoramento": "2022-12-16 10:22:34",
+        "analista": "Elias Ribeiro",
+        "resultado": "Liberado",
+        "parecerAnalise": "De acordo com a análise de imagens mais atuais de satélite foi possível identificar que o perímetro do CAR encontra-se deslocado, fora dos limites visuais da fazenda. Aconselha-se que o produtor retifique o recibo do CAR afim de georreferenciar os limites propriedade corretamente.",
+        "idVinculo": "6"
+      },
+      "7":{
+        "idMonitoramento": "8",
+        "dataMonitoramento": "2022-12-16 10:22:34",
+        "analista": "Celio Gomes",
+        "resultado": "Liberado",
+        "parecerAnalise": "De acordo com a análise de imagens mais atuais de satélite foi possível identificar que o perímetro do CAR encontra-se deslocado, fora dos limites visuais da fazenda. Aconselha-se que o produtor retifique o recibo do CAR afim de georreferenciar os limites propriedade corretamente.",
+        "idVinculo": "1"
+      }
+   } ,
+  "propriedades":{
+  "0":{
+    "idPropriedade": "1",
+    "nomePropriedade": "Fazenda da Serra",
+    "numeroCadastroRural": "O66666666666666666666",
+    "tipoPropriedade": "null"
+  },
+  "1":{
+    "idPropriedade": "2",
+    "nomePropriedade": "Princesinha do Lago",
+    "numeroCadastroRural": "PAkinbdgbvksjb254656263",
+    "tipoPropriedade": "Confinamento"
+  },
+ "2": {
+    "idPropriedade": "3",
+    "nomePropriedade": "3 Irmão",
+    "numeroCadastroRural": "GO93865665621hfdjhbg",
+    "tipoPropriedade": "Rural"
+  },
+  "3":{
+    "idPropriedade": "4",
+    "nomePropriedade": "Céu Azul",
+    "numeroCadastroRural": "MA9658669855jhgfdcvbn",
+    "tipoPropriedade": "Rural"
+  },
+  "4":{
+    "idPropriedade": "5",
+    "nomePropriedade": "Prosperidade",
+    "numeroCadastroRural": "MTsdfghj98423652ertyu",
+    "tipoPropriedade": "Rural"
+  },
+  "5":{
+    "idPropriedade": "6",
+    "nomePropriedade": "Fortuna",
+    "numeroCadastroRural": "AM862486ugvbnkiuytrf",
+    "tipoPropriedade": "null"
+  }},
+  "produtores":{
+    "0":{
+    "idprodutor": "1",
+    "nomeProdutor": "Carlos Braga",
+    "cpfProdutor": "882.259.670-62"
+  },
+  "1":{
+    "idprodutor": "2",
+    "nomeProdutor": "Joaquim Maia",
+    "cpfProdutor": "693.074.850-11"
+  },
+  "2":{
+    "idprodutor": "3",
+    "nomeProdutor": "Antonio Castro",
+    "cpfProdutor": "447.720.650-08"
+  },
+  "3":{
+    "idprodutor": "4",
+    "nomeProdutor": "João Ferreira",
+    "cpfProdutor": "661.334.400-15"
+  },
+  "4":{
+    "idprodutor": "5",
+    "nomeProdutor": "Mario Gomes",
+    "cpfProdutor": "457.653.790-36"
+  },
+  "5":{
+    "idprodutor": "null",
+    "nomeProdutor": "Pedro Souza",
+    "cpfProdutor": "951.759.830-08"
+  }},
+  "vinculo":{
+  "0":{
+    "idVinculo": "1",
+    "idProdutor": "1",
+    "tipoVinculoProdutor": "proprietario"
+  },
+  "1":{
+    "idVinculo": "null",
+    "idProdutor": "2",
+    "tipoVinculoProdutor": "null"
+  },
+  "2":{
+    "idVinculo": "2",
+    "idProdutor": "3",
+    "tipoVinculoProdutor": "socio"
+  },
+  "3":{
+    "idVinculo": "3",
+    "idProdutor": "4",
+    "tipoVinculoProdutor": "proprietario"
+  },
+  "4":{
+    "idVinculo": "4",
+    "idProdutor": "5",
+    "tipoVinculoProdutor": "null"
+  },
+  "5":{
+    "idVinculo": "5",
+    "idProdutor": "6",
+    "tipoVinculoProdutor": "proprietario"
+  }
+  }
+}

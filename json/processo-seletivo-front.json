@@ -137,32 +137,38 @@
   "0":{
     "idVinculo": "1",
     "idProdutor": "1",
-    "tipoVinculoProdutor": "proprietario"
+    "tipoVinculoProdutor": "proprietario",
+    "idPropriedade":"0"
   },
   "1":{
     "idVinculo": "null",
     "idProdutor": "2",
-    "tipoVinculoProdutor": "null"
+    "tipoVinculoProdutor": "null",
+    "idPropriedade":"2"
   },
   "2":{
     "idVinculo": "2",
     "idProdutor": "3",
-    "tipoVinculoProdutor": "socio"
+    "tipoVinculoProdutor": "socio",
+    "idPropriedade":"3"
   },
   "3":{
     "idVinculo": "3",
     "idProdutor": "4",
-    "tipoVinculoProdutor": "proprietario"
+    "tipoVinculoProdutor": "proprietario",
+    "idPropriedade":"5"
   },
   "4":{
     "idVinculo": "4",
     "idProdutor": "5",
-    "tipoVinculoProdutor": "null"
+    "tipoVinculoProdutor": "null",
+    "idPropriedade":"4"
   },
   "5":{
     "idVinculo": "5",
     "idProdutor": "6",
-    "tipoVinculoProdutor": "proprietario"
+    "tipoVinculoProdutor": "proprietario",
+    "idPropriedade":"1"
   }
   }
 }
